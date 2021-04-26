@@ -17,7 +17,7 @@ env:
   AZURE_WEBAPP_NAME: vitoc-ttt-app
   #################################################
 
-  jobs:
+jobs:
   build:
     runs-on: ubuntu-latest
 
